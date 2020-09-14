@@ -10,6 +10,9 @@
 
   <ItemGroup>
     <PackageReference Include="PCLStorage" Version="1.0.2" />
+    <PackageReference Include="Syncfusion.Xamarin.Buttons" Version="18.2.0.57" />
+    <PackageReference Include="Syncfusion.Xamarin.Core" Version="18.2.0.57" />
+    <PackageReference Include="Syncfusion.Xamarin.SfComboBox" Version="18.2.0.57" />
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1269" />
   </ItemGroup>
 
